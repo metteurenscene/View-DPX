@@ -9,3 +9,5 @@ Alternatively, you can drag and drop a DPX file into the browser window.
 
 Once the image is displayed, you can right click and select *Save Image As...*
 to save it in another file format.
+
+See the code in action [here](https://metteurenscene.github.io/View-DPX/).
